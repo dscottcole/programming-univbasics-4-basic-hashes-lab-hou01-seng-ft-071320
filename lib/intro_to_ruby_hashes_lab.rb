@@ -5,7 +5,7 @@ end
 def my_hash
   hash = {
     cat: "Jasmine",
-    breed: "Shorthair"
+    breed: "Shorthair",
     color: "Calico"
   }
 end
