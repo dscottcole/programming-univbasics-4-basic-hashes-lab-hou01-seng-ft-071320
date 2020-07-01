@@ -5,13 +5,17 @@ end
 def my_hash
   hash = {
     cat: "Jasmine",
-    breed: "Shorthair",
+    breed: "British short hair",
     color: "Calico"
   }
 end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  hash = {
+    name: "Grace Hopper"
+  }
+  hash[:name]
 end
 
 
